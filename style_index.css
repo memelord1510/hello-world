@@ -1,0 +1,21 @@
+*{
+    background-color: #222;
+    /*learn up on hex codes*/
+    color:aqua;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body{
+    margin: 40px auto;
+    max-width: 650px;
+}
+
+/*
+
+margin: top bottom left right
+
+
+
+
+
+*/
